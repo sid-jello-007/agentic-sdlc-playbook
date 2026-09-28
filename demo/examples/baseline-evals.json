@@ -1,0 +1,10 @@
+{
+  "coverage_pct": 100,
+  "priority_preserved_pct": 100,
+  "format_pass_pct": 100,
+  "pii_leaks": [],
+  "spec_acceptance_grounded_pct": 100,
+  "story_readability_pct": 71,
+  "tickets": 7,
+  "requirements": 7
+}
