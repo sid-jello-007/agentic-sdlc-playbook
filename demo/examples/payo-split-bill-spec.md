@@ -5,7 +5,7 @@ Owner: Product
 Status: Ready for refinement
 
 ## Problem
-Payo users who pay for a group dinner have no way to ask friends for their share inside the app. They switch to bank transfers or chat apps, and 40% of those requests are never settled.
+Payo users who pay for a group dinner have no way to ask friends for their share inside the app. They switch to bank transfers or chat apps, and many of those requests are never settled.
 
 ## Users
 - Payer: the person who paid the full bill
